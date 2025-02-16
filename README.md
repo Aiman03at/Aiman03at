@@ -7,7 +7,7 @@ I am a **Software Engineer with 3 years of experience** in full-stack web develo
 ## 💡 About Me  
 🔹 **Tech Stack:** JavaScript (ES6+), React.js, Node.js, Express, PostgreSQL, Python, FastAPI  
 🔹 **Testing & QA:** Automation (Selenium, Jest, Cypress), API Testing, Database Testing  
-🔹 **DevOps & Agile:** Git, Docker, CI/CD, JIRA, Agile (Scrum & SAFe)  
+🔹 **DevOps & Agile:** Git, Docker, CI/CD, JIRA, Agile.  
 
 ## 🏆 Featured Projects  
 
