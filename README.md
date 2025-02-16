@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Aiman Mushtaq 
 
-🚀 **Software Engineer | Full-Stack Developer | Quality Specialist**  
+🚀 **Software Engineer | Full-Stack Developer **  
 
 I am a **Software Engineer with 3 years of experience** in full-stack web development and software quality assurance. I have a strong foundation in **JavaScript, React.js, Node.js, PostgreSQL, and automated testing**, and I am passionate about building scalable applications that solve real-world problems.  
 
@@ -27,10 +27,10 @@ I am a **Software Engineer with 3 years of experience** in full-stack web develo
 🔹 **Key Features:** AI-assisted career recommendations, learning modules, and roadmap tracking  
 
 ## 📫 Connect With Me  
-📧 **Email:** [Your Email]  
-💼 **LinkedIn:** [Your LinkedIn Profile]  
-📂 **Portfolio:** [Your Portfolio (if applicable)]  
-📝 **Blog (if any):** [Your Blog Link]  
+📧 **Email:** [aiman03at@gmail.com]  
+💼 **LinkedIn:** [www.linkedin.com/in/aimanmushtaq89]  
+📂 **Portfolio:** []  
+📝 **Blog** []  
 
 ---
 
