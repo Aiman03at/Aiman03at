@@ -56,6 +56,4 @@ Social quiz platform for creating, sharing, and analyzing results — with inter
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimanmushtaq89)
 ![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-lightgrey?style=flat-square)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aiman03at@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimanmushtaq89)
-![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-lightgrey?style=flat-square)
+
